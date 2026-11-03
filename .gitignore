@@ -1,0 +1,6 @@
+subtitles/
+__pycache__/
+*.webm
+*.m4a
+*.mp3
+*.mp4
